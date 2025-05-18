@@ -53,4 +53,4 @@ To build the project into an executable:
 
 **Build Command:**
 ```bash
-pyinstaller --onefile --noconsole --icon=icon.ico ADB-AnimationSettings.py
+pyinstaller --onefile --noconsole ADB-AnimationSettings.py
