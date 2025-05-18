@@ -1,1 +1,1 @@
-# ADB-Anim-Settings
+# ADB-AnimationSettings
